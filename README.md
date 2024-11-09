@@ -54,7 +54,7 @@ Here's an example of how the colorization process transforms a grayscale image i
 
 | Grayscale Image | Colorized Output |
 |-----------------|------------------|
-| ![Grayscale](example_grayscale.png) | ![Colorized](example_colorized.png) |
+| ![Grayscale](example_grayscale.jpg) | ![Colorized](example_colorized.jpg) |
 
 ## Model Details
 - **Framework**: PyTorch with Torchvision
