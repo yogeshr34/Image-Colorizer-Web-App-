@@ -59,7 +59,7 @@ Here's an example of how the colorization process transforms a grayscale image i
 ## Model Details
 - **Framework**: PyTorch with Torchvision
 - **Architecture**: Autoencoder with custom enhancements for colorization
-- **Dataset**: The model was trained on [Dataset Name] (Add a link or details about the dataset).
+- **Dataset**: The model was trained on Kaggle based dataset.
 
 ## Future Improvements
 - **Enhance Model Performance**: Experiment with other architectures like GANs for better colorization.
