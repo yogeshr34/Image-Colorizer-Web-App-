@@ -1,5 +1,5 @@
 
-# Image Colorizer Web App 🌈
+# Image Colorizer Web App 
 
 This project is a web application that colorizes grayscale images using a machine learning model built with PyTorch, Torchvision, and autoencoders. The application is hosted using Streamlit, providing an intuitive interface for users to upload grayscale images and view their colorized versions.
 
