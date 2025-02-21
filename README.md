@@ -1,5 +1,6 @@
 
 # Image Colorizer Web App 
+I and my teammate LathikaGS developed this ML based web application for colorization of black and white images into colourized images using autoencoders. 
 
 This project is a web application that colorizes grayscale images using a machine learning model built with PyTorch, Torchvision, and autoencoders. The application is hosted using Streamlit, providing an intuitive interface for users to upload grayscale images and view their colorized versions.
 
